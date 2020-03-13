@@ -71,7 +71,16 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    width: 100%;
-    top: 0;
-    position: fixed;
+    background-color: red;
+    font-family: 'Jacques Francois Shadow', cursive;
+
 }
+
+ li {
+     float: left;
+ }
+
+ li a {
+     display: block;
+     padding: 8px;
+ }
