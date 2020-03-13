@@ -44,7 +44,7 @@ html {
 body {
     /* Margin bottom by footer height */
     margin: 0;
-    background-color: aqua;
+    background-color: #c3f2ff;
 }
 .footer {
   position: absolute;
@@ -60,20 +60,18 @@ body {
 .nav-bar {
     background-repeat: no-repeat;
     background-image: url("../img/festivalsimg1.jpg");
-    height: 200px;
+    height: 250px;
     background-position-x: center;
     background-position-y: center;
-    margin-top: 40px;
+    
 }
- ul {
-
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: red;
+    background-color: lightpink;
     font-family: 'Jacques Francois Shadow', cursive;
-
 }
 
  li {
